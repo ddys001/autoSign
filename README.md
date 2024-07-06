@@ -1,4 +1,4 @@
-## 夸克网盘自动签到
+## 跨克网盘自动签到
 
 ### 设置全局环境变量cookie
 1. settings点击之后左边菜单的Security-> secrets and variables->actions
@@ -17,4 +17,4 @@ node --env-file .env .\index.mjs
 ```
 
 ### 获取cookie方式
-COOKIE获取方法：[Alist获取夸克网盘cookie](https://alist.nn.ci/zh/guide/drivers/quark.html)
+COOKIE获取方法：[Alist获取跨克网盘cookie](https://alist.nn.ci/zh/guide/drivers/quark.html)
